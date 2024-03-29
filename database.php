@@ -1,5 +1,5 @@
 <?php 
-$con=new mysqli("localhost","sox","sox","sox");
+$con=new mysqli("54.251.142.3","sox","sox","sox");
 
 $username=$_POST['username'];
 $password=$_POST['password'];
